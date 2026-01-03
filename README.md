@@ -6,7 +6,7 @@
 
 <!--  -->
 
-- 🌱 Junior software engineer At Ravindra Softwares
+- 🌱 Software Engineer At Ravindra Softwares
 - 🔹 1 year and 6+ months of experience as Full Stack Developer at Ravindra Softwares
 - 🔹 8 months of experience as Python Developer 
 
